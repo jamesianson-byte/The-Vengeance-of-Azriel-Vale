@@ -10,7 +10,9 @@ This file tracks important people, organisations, allies, enemies, and reputatio
 
 Relationships should develop naturally through play.
 
-Do not invent history, friendships, rivalries, or loyalties unless they are established during the campaign.
+Do not invent history, friendships, rivalries, loyalties, or personal connections unless they are established during the campaign.
+
+Unknown information remains unknown.
 
 ---
 
