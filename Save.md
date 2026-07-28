@@ -1,106 +1,182 @@
-# Campaign Save State
+# Campaign Save — Sir Azriel Vale
 
-> This file is the authoritative current campaign state.
+> Current campaign state and session loading file.
 
-## Session Loading Instructions
+---
 
-1. Read `Azriel.md` first.
-2. Read this file second.
-3. Continue directly from **Next Scene**.
-4. Never restart the campaign unless explicitly instructed.
-5. Do not import material from other campaigns unless it exists in this repository.
-6. Unknown details must remain unknown until established through play.
+# Character
 
-## Session Information
+**Name:** Sir Azriel Vale  
+**Race:** Aasimar  
+**Class:** Paladin  
+**Level:** 10  
+**Subclass:** Oath of Vengeance  
 
-- **Session Number:** 0
-- **Campaign Status:** Ready to begin
-- **Character:** Sir Azriel Vale
-- **Level:** 10
-- **Current XP or Milestone:** To be determined
-- **Ruleset:** To be confirmed before the first mechanical roll
-- **Current Date in World:** Unknown
-- **Current Location:** Unknown
+---
 
-## Current Condition
+# Current Status
 
-- **HP:** To be confirmed
-- **Temporary HP:** 0
-- **Hit Dice:** 10d10 available
-- **Exhaustion:** None
-- **Conditions:** None
-- **Active Effects:** None
+**Current HP:** 94 / 94  
 
-## Available Resources
+**Temporary HP:** 0  
 
-- **Lay on Hands:** Full; exact pool follows chosen ruleset
-- **Channel Divinity:** Full
-- **Spell Slots:** Full; confirm exact progression under chosen ruleset
-- **Aasimar Transformation or Revelation:** Available, subject to selected Aasimar version
-- **Great Weapon Master:** Available
+**Hit Dice:** 10d10  
 
-## Current Equipment
+**Conditions:** None  
 
-- Plate armour
-- Greatsword
-- Holy symbol
-- White cloak
-- Deep-blue tabard
-- Knight’s insignia
-- Remaining starting gear to be finalised
+**Exhaustion:** None  
 
-## Current Party
+---
 
-Azriel currently has no established adventuring companions.
+# Resources
 
-## Current Quest
+## Spell Slots
 
-No quest has yet been accepted.
+### 1st Level
 
-## Immediate Situation
+Available: 4 / 4
 
-The campaign has not begun. Azriel’s history, knightly allegiance, divine source, home region, and opening threat have deliberately not been invented yet.
+### 2nd Level
 
-## Known NPCs
+Available: 3 / 3
 
-None established.
+### 3rd Level
 
-## Known Threats
+Available: 2 / 2
 
-None established.
+---
 
-## Current Gold and Treasure
+## Lay on Hands
 
-To be set during campaign preparation.
+Available: 50 / 50 HP
 
-## Recent Decisions
+---
 
-- Azriel Vale was created as a Level 10 Aasimar Paladin.
-- He follows the Oath of Vengeance.
-- He uses a greatsword and Great Weapon Fighting.
-- His ability scores are Strength 20, Charisma 18, Constitution 16, Dexterity 10, Wisdom 10, and Intelligence 8.
-- He has the Great Weapon Master feat and the Knight background.
+## Channel Divinity
 
-## Outstanding Questions
+Available: 2 / 2
 
-- Which exact D&D ruleset and sourcebook versions govern the campaign?
-- How were hit points determined?
-- Which Aasimar lineage or celestial revelation applies?
-- What knightly order, realm, or noble house granted Azriel his title?
-- Which adventure begins the campaign?
-- Does Azriel begin with any magic items appropriate for Level 10?
+---
 
-## Next Scene
+## Aasimar Features
 
-Begin with a completely new campaign. Introduce Sir Azriel Vale naturally into the selected adventure without importing prior characters or history. Establish the setting through action rather than a long exposition dump, and present an immediate situation worthy of a Level 10 Oath of Vengeance Paladin.
+Available: Ready
 
-## End-of-Session Update Checklist
+---
 
-- Update HP, spell slots, Lay on Hands, Channel Divinity, conditions, and location.
-- Record the current objective and immediate situation.
-- Record companions and important NPC attitudes.
-- Record loot, gold, magic items, and equipment changes.
-- Record major decisions and unresolved consequences.
-- Replace **Next Scene** with the exact continuation point.
-- Append the completed session to `Journal.md`.
-- Update `World.md`, `Spellbook.md`, or `Azriel.md` only where needed.
+# Equipment Status
+
+## Oathkeeper
+
+**Weapon:** Greatsword  
+**Status:** Equipped  
+**Magical Properties:** None currently known
+
+---
+
+## Armour
+
+**Equipped:** Plate Armour  
+**Status:** Maintained
+
+---
+
+# Current Location
+
+**Location:** Not yet established
+
+---
+
+# Current Adventure
+
+**Adventure:** Not started  
+**Campaign Session:** Session 0 / Character Introduction
+
+---
+
+# Active Quests
+
+None currently.
+
+---
+
+# Completed Quests
+
+None.
+
+---
+
+# Known Allies
+
+None currently.
+
+---
+
+# Known Enemies
+
+None currently.
+
+---
+
+# Important Events
+
+## Beginning of Campaign
+
+Sir Azriel Vale begins his journey as a Level 10 Paladin of the Oath of Vengeance.
+
+His reputation, allies, enemies, and history will be established through play.
+
+---
+
+# Current Objectives
+
+1. Begin the first adventure.
+2. Discover the threats facing the region.
+3. Protect those who cannot protect themselves.
+4. Uphold the principles of his oath.
+
+---
+
+# Session Notes
+
+Use this section only for immediate campaign information.
+
+Examples:
+
+- Current party members
+- Temporary objectives
+- Short-term plans
+- Active magical effects
+- Important discoveries
+
+---
+
+# Next Scene
+
+Awaiting campaign introduction.
+
+---
+
+# Save File Rules
+
+This file should only contain current campaign state.
+
+Permanent character information belongs in:
+
+`Azriel.md`
+
+Spells and spell tactics belong in:
+
+`Spellbook.md`
+
+NPC history belongs in:
+
+`Relationships.md`
+
+World discoveries belong in:
+
+`World.md`
+
+Session summaries belong in:
+
+`Journal.md`
