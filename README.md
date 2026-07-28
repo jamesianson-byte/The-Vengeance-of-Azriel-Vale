@@ -1,60 +1,93 @@
 # The Vengeance of Azriel Vale
 
-## A Solo D&D 2024 Campaign Repository
+## Solo Dungeons & Dragons Campaign Repository
 
-This repository contains the campaign records for **Sir Azriel Vale**, a Level 10 Aasimar Paladin following the **Oath of Vengeance**.
+This repository contains the persistent campaign record for:
 
-The purpose of this repository is to maintain campaign continuity while allowing the player to fully roleplay Azriel's decisions, actions, and personality.
+**Sir Azriel Vale**  
+**Level 10 Aasimar Paladin**  
+**Oath of Vengeance**
+
+Ruleset:
+
+**Dungeons & Dragons 2024**
 
 ---
 
-# Repository Philosophy
+# Purpose
 
-The files in this repository are a memory system, not a script.
+This repository acts as the campaign memory.
 
-They record:
+It stores:
 
 - Character information
 - Current campaign state
-- Discoveries
-- Relationships
-- Events that have happened
+- Spells and abilities
+- NPC relationships
+- World discoveries
+- Session history
 
-They do not:
+The repository is the source of truth.
 
-- Decide Azriel's choices
-- Write his dialogue
-- Predict his actions
-- Create relationships before they happen
+The player controls Azriel.
 
-Azriel is controlled by the player.
+The Dungeon Master controls:
 
-The repository exists to remember the consequences.
+- The world
+- NPCs
+- Enemies
+- Encounters
+- Consequences
 
 ---
 
-# File Structure
+# Campaign Instructions
+
+The Dungeon Master operating rules are stored in:
+
+```
+DM_Instructions.md
+```
+
+This file defines:
+
+- Session workflow
+- GitHub usage
+- Player agency rules
+- Adventure fidelity
+- Dice rules
+- Combat expectations
+- Campaign management
+
+Always follow `DM_Instructions.md` before running a session.
+
+---
+
+# Repository Structure
 
 ```
 The-Vengeance-of-Azriel-Vale/
 
 ├── README.md
-│   Campaign instructions and file structure
+│   Campaign overview and file guide
+
+├── DM_Instructions.md
+│   Dungeon Master operating rules
 
 ├── Azriel.md
 │   Permanent character sheet and identity
 
 ├── Spellbook.md
-│   Spells, spell slots, Divine Smite usage and combat priorities
+│   Prepared spells, spell slots and combat priorities
 
 ├── Save.md
-│   Current campaign state and session loading information
+│   Current campaign state and continuation point
 
 ├── Relationships.md
-│   NPCs, allies, enemies, reputation, promises and debts
+│   NPCs, allies, enemies and reputation
 
 ├── World.md
-│   Discovered locations, factions, history, rumours and threats
+│   Known locations, factions, lore and threats
 
 └── Journal.md
     Session summaries and campaign history
@@ -62,137 +95,131 @@ The-Vengeance-of-Azriel-Vale/
 
 ---
 
-# Session Loading Order
+# Session Start Procedure
 
-Load files in this order at the beginning of every session:
+When beginning a session:
 
-1. **Azriel.md**
-   - Character identity
-   - Ability scores
-   - Features
-   - Permanent abilities
+1. Load `DM_Instructions.md`
+2. Load `Save.md`
+3. Load `Azriel.md`
+4. Load `Spellbook.md`
+5. Load `Relationships.md`
+6. Load `World.md`
+7. Load `Journal.md` when historical context is required
 
-2. **Spellbook.md**
-   - Prepared spells
-   - Spell slots
-   - Divine Smite strategy
-   - Combat priorities
+Resume exactly from the end of `Save.md`.
 
-3. **Save.md**
-   - Current location
-   - HP and resources
-   - Active quests
-   - Current situation
-   - Next Scene
-
-4. **Relationships.md**
-   - Allies
-   - Enemies
-   - NPC attitudes
-   - Reputation
-
-5. **World.md**
-   - Known locations
-   - Factions
-   - History
-   - Rumours
-   - Threats
-
-6. **Journal.md**
-   - Previous session summaries
-   - Major events
+Never restart the campaign unless explicitly instructed.
 
 ---
 
-# During Play
+# Session End Procedure
 
-The Dungeon Master should:
+After a session:
 
-- Run the world fairly
-- Track consequences
-- Maintain NPC consistency
-- Update campaign records after important events
-- Keep unknown information unknown
-
-The Dungeon Master should not:
-
-- Control Azriel's choices
-- Decide his emotions
-- Force personality decisions
-- Reveal information Azriel has not discovered
-
----
-
-# After Each Session
-
-Update:
+Update only information that objectively changed.
 
 ## Save.md
 
-Record:
+Update:
 
 - Current location
-- HP and resources
+- HP
+- Resources
 - Active quests
 - Current objectives
-- Next scene
-
-## Relationships.md
-
-Record:
-
-- New NPCs
-- Allies
-- Enemies
-- Reputation changes
-- Promises and debts
-
-## World.md
-
-Record:
-
-- Locations discovered
-- Factions encountered
-- Lore learned
-- Threats discovered
+- Immediate situation
 
 ## Journal.md
 
 Record:
 
 - Session summary
-- Major events
-- Important decisions
+- Important events
+- Major decisions
 - Consequences
 
+## Relationships.md
+
+Update:
+
+- New NPCs
+- Allies
+- Enemies
+- Reputation
+- Promises
+- Debts
+
+## World.md
+
+Update:
+
+- Locations
+- Factions
+- Discoveries
+- Threats
+- Lore
+
 ---
 
-# Character Summary
+# Campaign Principles
 
-**Name:** Sir Azriel Vale  
-**Race:** Aasimar  
-**Class:** Paladin 10  
-**Subclass:** Oath of Vengeance  
-**Background:** Knight  
-**Weapon:** Oathkeeper Greatsword  
-**Ruleset:** Dungeons & Dragons 2024
+## Player Agency
+
+Azriel's choices belong to the player.
+
+The Dungeon Master should never:
+
+- Decide Azriel's actions
+- Write Azriel's dialogue
+- Control Azriel's morality
+- Force a predetermined outcome
 
 ---
 
-# Campaign Status
+## Canon
 
-**Campaign:** The Vengeance of Azriel Vale
+Established information should remain consistent.
 
-**Status:** Ready to begin
+Unknown information remains unknown until discovered.
 
-**Current Location:** Unknown
+The campaign should grow through play.
 
-**Active Quests:** None
+---
 
-**Companions:** None established
+# Current Campaign Status
+
+Character:
+
+**Sir Azriel Vale**
+
+Race:
+
+**Aasimar**
+
+Class:
+
+**Paladin**
+
+Level:
+
+**10**
+
+Oath:
+
+**Oath of Vengeance**
+
+Weapon:
+
+**Oathkeeper**
+
+Campaign:
+
+**Ready to begin**
 
 ---
 
 # Core Principle
 
-> The files remember the journey. The player creates the legend.
+> The repository remembers the journey.  
+> The player creates the legend.
