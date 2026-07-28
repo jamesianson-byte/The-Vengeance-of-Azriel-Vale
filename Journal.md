@@ -2,32 +2,34 @@
 
 This file is the permanent chronological record of the campaign. Append new sessions beneath the previous entry; do not overwrite established history.
 
-## Before the Campaign
+---
 
-Sir Azriel Vale stands ready at Level 10: an Aasimar Paladin of the Oath of Vengeance, a knight of imposing stature, disciplined temperament, and unwavering purpose.
+## Session 1 — In Scarlet Flames
 
-His precise allegiance, divine calling, homeland, enemies, and prior deeds have not yet been established. They will be revealed through play rather than invented retrospectively.
+- **Starting Location:** Secomber
+- **Ending Location:** Secomber
+- **Main Objective:** Investigate reports of Red Wizard activity.
+- **Key NPCs:** Eldrin Voss, Tomas Reed, Marrec Thorne, Perrin Quickstep
+- **Combat Encounters:** None
+- **Major Decisions:**
+  - Chose to investigate Red Wizard activity before assuming hostile intent.
+  - Gathered information from villagers, merchants, guards, and scholars.
+  - Agreed to travel toward Old Owl Well in the High Moor.
+  - Formed an expedition party.
+- **Consequences:**
+  - Tomas Reed will guide the expedition.
+  - Marrec Thorne will provide historical expertise.
+  - Perrin Quickstep will provide scouting support.
+- **Loot and Rewards:** None
+- **XP or Milestone Progress:** No milestone reached.
+- **Current Cliffhanger:** Expedition departs Secomber at dawn.
 
 ---
 
-## Session Template
+## Before the Campaign
 
-### Session [Number] — [Title]
+Sir Azriel Vale stands ready at Level 10: an Aasimar Paladin of the Oath of Vengeance.
 
-- **Date:**
-- **Starting Location:**
-- **Ending Location:**
-- **Main Objective:**
-- **Key NPCs:**
-- **Combat Encounters:**
-- **Major Decisions:**
-- **Consequences:**
-- **Loot and Rewards:**
-- **XP or Milestone Progress:**
-- **Current Cliffhanger:**
-
-### Azriel’s Reflection
-
-*Write a short in-character reflection here.*
+His precise history will be established through play.
 
 ---
