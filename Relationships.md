@@ -1,18 +1,8 @@
 # Relationships — Sir Azriel Vale
 
-> **"A knight is measured not only by the enemies he defeats, but by the people who stand beside him when the battle ends."**
-
----
-
-# Purpose
-
-This file tracks important people, organisations, allies, enemies, and reputations connected to Azriel.
+> This file tracks important people, organisations, allies, enemies, and reputations connected to Azriel.
 
 Relationships should develop naturally through play.
-
-Do not invent history, friendships, rivalries, loyalties, or personal connections unless they are established during the campaign.
-
-Unknown information remains unknown.
 
 ---
 
@@ -24,124 +14,63 @@ None established.
 
 ---
 
-## Known Enemies
+# Companions
 
-None established.
+## Tomas Reed
 
----
-
-## Companions
-
-Azriel currently has no confirmed adventuring companions.
-
----
-
-## Organisations
-
-No established affiliations.
-
----
-
-# Relationship Tracker
-
-Use this template for important NPCs.
-
-## NPC Name
-
-**Role:**
-
-**Race:**
-
-**Location:**
-
-**First Encounter:**
-
-**Current Attitude:**
-
-Unknown / Friendly / Neutral / Hostile
-
-**Trust Level:**
-
-Unknown
-
-**Azriel's View:**
-
-
-**NPC's View of Azriel:**
-
+**Role:** Hunter / Guide  
+**Location:** Secomber  
+**Current Attitude:** Friendly  
+**Trust Level:** Developing
 
 **Important Events:**
-
-
-**Promises or Debts:**
-
-
-**Future Notes:**
+- Agreed to guide Azriel through the High Moor.
+- Will organise expedition supplies.
+- Will receive fair payment and a share of valuable discoveries.
 
 ---
 
-# Reputation
+## Marrec Thorne
 
-## General Reputation
+**Role:** Scholar / Researcher  
+**Location:** Secomber  
+**Current Attitude:** Friendly  
+**Trust Level:** Developing
 
-Unknown.
-
-Azriel's reputation will be established through campaign actions.
-
----
-
-## Local Reputation
-
-Unknown.
+**Important Events:**
+- Shared knowledge of Old Owl Well.
+- Joined the expedition to study historical discoveries.
 
 ---
 
-## Noble and Military Reputation
+## Perrin Quickstep
 
-Unknown.
+**Role:** Scout  
+**Location:** Secomber  
+**Current Attitude:** Friendly  
+**Trust Level:** Developing
+
+**Important Events:**
+- Joined the expedition after agreeing to the same terms as Tomas Reed.
 
 ---
 
-## Criminal Reputation
+# Organisations
 
-Unknown.
+## Red Wizards of Thay
 
----
+**Relationship:** Under investigation.
 
-## Divine Reputation
-
-Unknown.
+Azriel knows their reputation but has not judged their current actions without evidence.
 
 ---
 
 # Promises Made
 
-None.
-
----
-
-# Debts Owed
-
-None.
-
----
-
-# Debts To Azriel
-
-None.
+- Fair payment and reasonable share of discoveries promised to expedition companions.
 
 ---
 
 # Significant Relationships
 
-None established.
-
----
-
-# Relationship History
-
-No relationships have been established before the beginning of the campaign.
-
----
-
-# End of File
+The expedition party is forming.
