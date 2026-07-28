@@ -1,152 +1,201 @@
 # Sir Azriel Vale
 
-> *“The guilty may flee. They will not escape.”*
+> **"Stand between darkness and those who cannot stand alone."**
 
-## Identity
+## Character Record
 
 - **Name:** Sir Azriel Vale
-- **Race:** Aasimar
+- **Species:** Aasimar
 - **Class:** Paladin
 - **Level:** 10
 - **Sacred Oath:** Oath of Vengeance
 - **Background:** Knight
-- **Alignment:** Not yet fixed; defined through play
-- **Proficiency Bonus:** +4
+- **Ruleset:** Dungeons & Dragons 2024
+- **Alignment:** Lawful Good
+- **Signature Weapon:** Oathkeeper
 
-## Appearance
+---
 
-Azriel stands **6 feet 7 inches tall**, with the immense, functional physique of a heavily trained warrior: broad shoulders, powerful arms, a thick chest, and an athletic build made for strength rather than display.
+# Character Summary
 
-He has clear, unblemished skin and a clean-shaven face. His dark-blond hair is kept neat and swept back. His ice-blue eyes shine with golden celestial light when he channels divine power.
+Sir Azriel Vale is an aasimar knight who has devoted his life to standing between evil and those who cannot defend themselves.
 
-He wears polished plate armour beneath a white travelling cloak and deep-blue tabard. His greatsword is carried across his back or held low in both hands when danger approaches.
+He does not pursue vengeance because he enjoys punishment. He pursues it because he believes evil cannot be allowed to continue simply because confronting it is difficult.
 
-## Ability Scores
+Azriel's oath is not hatred. It is responsibility.
 
-| Ability | Score | Modifier |
-|---|---:|---:|
-| Strength | 20 | +5 |
-| Dexterity | 10 | +0 |
-| Constitution | 16 | +3 |
-| Intelligence | 8 | -1 |
-| Wisdom | 10 | +0 |
-| Charisma | 18 | +4 |
+> **Justice without vengeance may become weakness. Vengeance without justice becomes tyranny.**
 
-## Core Combat Statistics
+---
 
-- **Armour Class:** 18 in plate armour
-- **Initiative:** +0
-- **Speed:** 30 ft.
-- **Hit Points:** Confirm at campaign start according to the chosen ruleset and hit-point method
-- **Hit Dice:** 10d10
-- **Spell Save DC:** 16
-- **Spell Attack Bonus:** +8
-- **Aura of Protection Bonus:** +4 to saving throws for Azriel and affected allies
+# Appearance
 
-## Primary Attack
+Azriel stands 6 feet 7 inches tall with the immense, functional physique of a heavily trained warrior. He has broad shoulders, powerful arms, a thick chest, and the athletic build of someone shaped by years of martial discipline.
 
-### Greatsword
+He has clean, unblemished skin, a clean-shaven face, dark blond hair worn neatly swept back, and ice-blue eyes that glow with golden celestial light when his divine power manifests.
 
-- **Attack Bonus:** +9
-- **Damage:** 2d6 + 5 slashing
-- **Properties:** Heavy, two-handed
-- **Fighting Style:** Great Weapon Fighting
+He wears polished plate armour, a deep-blue tabard, and a white travelling cloak. His appearance is disciplined rather than decorative. Every item exists for a purpose.
 
-Apply Divine Smite or the current ruleset’s equivalent when a hit warrants expending a spell slot. Against priority enemies, use Vow of Enmity before committing major resources.
+---
 
-## Feat and Ability Improvements
+# Personality
 
-- **Great Weapon Master**
-- **Strength increased by +2**, reaching 20
+## Discipline Before Anger
 
-The exact wording and mechanics of Great Weapon Master follow the campaign’s chosen D&D ruleset.
+Azriel feels anger, grief, and fear like anyone else, but refuses to let emotion decide his actions. When others become louder, Azriel becomes quieter.
 
-## Paladin Features
+## Justice Without Cruelty
 
-- Divine Sense or current ruleset equivalent
-- Lay on Hands
-- Great Weapon Fighting
-- Divine Smite or current ruleset equivalent
-- Spellcasting
-- Divine Health
-- Extra Attack
-- Aura of Protection
-- Aura of Courage
+Azriel believes punishment must serve a purpose. He does not torture, humiliate defeated enemies, or harm the helpless.
 
-## Oath of Vengeance Features
+Mercy matters, but mercy cannot be allowed to create another victim.
 
-### Channel Divinity
+## Quiet Compassion
 
-- **Abjure Enemy**
-- **Vow of Enmity**
+Azriel protects people through action rather than speeches. He stands watch, carries the injured, remembers the dead, and helps without seeking recognition.
 
-### Relentless Avenger
+## Humility
 
-When Azriel strikes a foe with an opportunity attack, he can pursue it without allowing the enemy to escape easily, subject to the current ruleset wording.
+His celestial heritage is a responsibility, not proof of superiority. He does not seek worship or glory.
 
-## Aasimar Traits
+## Relentlessness
 
-Use the Aasimar traits from the campaign’s approved sourcebook. Azriel’s celestial nature is subtle until invoked: his eyes glow gold and radiant power gathers around him rather than permanent wings or a halo being constantly visible.
+Once Azriel determines that a threat endangers innocent lives, he will pursue it regardless of difficulty, reputation, or personal cost.
 
-## Background: Knight
+---
 
-Azriel understands noble etiquette, military hierarchy, heraldry, duty, formal challenges, and the responsibilities attached to rank. The details of his household, order, title, and retainers will be established during campaign creation rather than invented prematurely.
+# Speech and Mannerisms
 
-## Personality
+Azriel speaks calmly and precisely. He does not boast, threaten unnecessarily, or waste words.
 
-Azriel is quiet, disciplined, courteous, and intensely self-possessed. He does not boast or posture. When he speaks, he expects to be understood the first time.
+Common phrases:
 
-He protects innocents without demanding praise and treats worthy opponents with respect. Those who knowingly prey upon the weak receive neither indulgence nor theatrical cruelty—only certainty.
+> "Stand behind me."
 
-## Beliefs
+> "You have one opportunity to surrender."
 
-- Mercy has value only when it prevents further suffering.
-- Justice must be pursued even when authority refuses to act.
+> "We finish this here."
+
+> "Look at me. You are safe now."
+
+Before battle, Azriel checks civilians and allies before considering himself.
+
+After battle, he cleans Oathkeeper personally.
+
+---
+
+# Core Beliefs
+
 - Power creates responsibility, not privilege.
-- Vengeance is a duty when it protects others, not permission to satisfy wounded pride.
+- Justice must be pursued even when authority refuses to act.
+- A person's actions define them, not their ancestry or reputation.
+- Mercy is valuable when it prevents further suffering.
+- The strong have a duty to protect those without strength.
 
-## Oath Tenets
+---
 
-- **Fight the Greater Evil:** Do not allow lesser concerns to protect a greater threat.
-- **No Mercy for the Wicked:** Those who deliberately cause grave suffering must be stopped.
-- **By Any Means Necessary:** Accept difficult choices, but do not use the oath as an excuse for pointless cruelty.
-- **Restitution:** Aid those harmed by the enemies Azriel failed to prevent or stop sooner.
+# Code of Honour
 
-## Roleplaying Boundaries
+## Protect the Defenceless
 
-Azriel is relentless rather than reckless. He can cooperate, investigate, negotiate, take prisoners, and delay vengeance when doing so improves the chance of protecting innocents or destroying the true threat.
+Those who cannot protect themselves come before glory, treasure, or personal revenge.
 
-He does not murder harmless civilians, betray allies casually, torture for entertainment, or destroy communities merely to reach one enemy. His oath is a weapon against evil—not a divine tantrum permit.
+## Honour Surrender
 
-## Equipment
+A genuine surrender deserves consideration. A false surrender forfeits that protection.
 
-### Equipped
+## Never Torture
 
-- Plate armour
-- Greatsword
-- White travelling cloak
-- Deep-blue tabard
-- Holy symbol
-- Knight’s clothing and insignia
+Azriel will interrogate, intimidate, and investigate, but will not inflict suffering for information.
 
-### Adventuring Gear
+## Keep Your Word
 
-To be finalised before Session 1 according to starting equipment, campaign wealth, and permitted magic items.
+Azriel does not promise lightly. When his word is given, he treats it as binding.
 
-## Titles and Reputation
+## Do Not Hide Behind Authority
 
-- **Sir Azriel Vale** — Knight
+A command does not excuse an evil action. Every person remains responsible for their choices.
 
-Further titles and regional reputation must be earned during play.
+---
 
-## Current Goals
+# The Oath of Vengeance
 
-- Discover the threat that will define the opening adventure.
-- Determine the true source of his celestial calling.
-- Uphold his oath without allowing vengeance to consume justice.
+Azriel did not swear his oath before crowds or kings. He knelt alone, planted his greatsword into the earth, and made his promise.
 
-## Character Continuity Rules
+> I will not pursue vengeance for wounded pride.
 
-- This file is authoritative for Azriel’s permanent identity and current mechanical build.
-- Update it when he levels, changes equipment, gains a title, acquires a major item, or undergoes a lasting character change.
-- Do not import characters, locations, companions, history, or rewards from other campaigns unless explicitly introduced into this campaign.
+> I will not punish the innocent for the crimes of the guilty.
+
+> I will not mistake cruelty for justice.
+
+> I will pursue those who prey upon the helpless.
+
+> I will stand between darkness and those who cannot stand alone.
+
+> If justice will not come, then I will carry it.
+
+---
+
+# Oathkeeper
+
+## Weapon Record
+
+- **Name:** Oathkeeper
+- **Type:** Greatsword
+- **Current Status:** Non-magical
+- **Bearer:** Sir Azriel Vale
+
+Oathkeeper is not an ancient relic or legendary weapon. It is the sword Azriel carried when he swore his oath.
+
+The blade became meaningful because of the promise made over it.
+
+If Oathkeeper ever gains magical power, it should awaken through Azriel's deeds rather than be replaced.
+
+The sword represents responsibility, restraint, and the promise that power must always serve a purpose.
+
+---
+
+# Celestial Nature
+
+Azriel's aasimar heritage is a responsibility rather than a crown. He does not believe celestial blood makes someone automatically righteous.
+
+When his divine power manifests, his eyes glow with radiant light and celestial energy gathers around him. The effect is controlled judgement rather than overwhelming spectacle.
+
+---
+
+# Leadership Philosophy
+
+Azriel leads from the front.
+
+He does not treat allies as expendable resources. He listens, protects, and accepts responsibility.
+
+His authority comes from trust rather than fear.
+
+His preferred command in danger is simple:
+
+> **"Stand behind me."**
+
+---
+
+# Reputation
+
+Azriel begins as a respected but not legendary knight.
+
+His fame, titles, allies, enemies, and reputation must be earned through play.
+
+The world should learn the name Sir Azriel Vale through his actions.
+
+---
+
+# Continuity Rules
+
+- This file is the authoritative source for Azriel's identity and personality.
+- Do not import history, allies, locations, or rewards from other campaigns.
+- Unknown details remain unknown until discovered through play.
+- Major mechanical changes, titles, and character-defining events should update this file.
+
+---
+
+# Part 1 Complete
+
+Part 2 will add the complete mechanical build, level progression from 1-10, hit points, feats, features, spellcasting, and combat doctrine.
