@@ -17,13 +17,8 @@
 # Current Status
 
 **Current HP:** 94 / 94  
-
 **Temporary HP:** 0  
-
-**Hit Dice:** 10d10  
-
 **Conditions:** None  
-
 **Exhaustion:** None  
 
 ---
@@ -33,15 +28,12 @@
 ## Spell Slots
 
 ### 1st Level
-
 Available: 4 / 4
 
 ### 2nd Level
-
 Available: 3 / 3
 
 ### 3rd Level
-
 Available: 2 / 2
 
 ---
@@ -58,125 +50,82 @@ Available: 2 / 2
 
 ---
 
-## Aasimar Features
-
-Available: Ready
-
----
-
 # Equipment Status
 
 ## Oathkeeper
 
 **Weapon:** Greatsword  
 **Status:** Equipped  
-**Magical Properties:** None currently known
-
----
 
 ## Armour
 
-**Equipped:** Plate Armour  
-**Status:** Maintained
+**Equipped:** Plate Armour
+
+---
+
+# Resources and Wealth
+
+**Gold:** 499 gp, 6 sp
+
+Starting wealth established: 500 gp.
 
 ---
 
 # Current Location
 
-**Location:** Not yet established
+**Location:** Secomber
 
 ---
 
 # Current Adventure
 
-**Adventure:** Not started  
-**Campaign Session:** Session 0 / Character Introduction
+**Adventure:** In Scarlet Flames  
+**Campaign Session:** Session 1
 
 ---
 
 # Active Quests
 
-None currently.
+## Investigate Red Wizard Activity
+
+- Red Wizards have travelled toward the High Moor.
+- Their purpose remains unknown.
+- Old Owl Well has been identified as a possible location of interest.
 
 ---
 
-# Completed Quests
+# Known Allies and Companions
 
-None.
+## Tomas Reed
+Hunter and guide.
 
----
+## Marrec Thorne
+Scholar and researcher.
 
-# Known Allies
-
-None currently.
-
----
-
-# Known Enemies
-
-None currently.
+## Perrin Quickstep
+Scout.
 
 ---
 
 # Important Events
 
-## Beginning of Campaign
+## Session 1
 
-Sir Azriel Vale begins his journey as a Level 10 Paladin of the Oath of Vengeance.
-
-His reputation, allies, enemies, and history will be established through play.
-
----
-
-# Current Objectives
-
-1. Begin the first adventure.
-2. Discover the threats facing the region.
-3. Protect those who cannot protect themselves.
-4. Uphold the principles of his oath.
-
----
-
-# Session Notes
-
-Use this section only for immediate campaign information.
-
-Examples:
-
-- Current party members
-- Temporary objectives
-- Short-term plans
-- Active magical effects
-- Important discoveries
+- Azriel investigated rumours of Red Wizard activity in Secomber.
+- Met Eldrin Voss and learned of Old Owl Well.
+- Recruited Tomas Reed as a guide.
+- Recruited Marrec Thorne as a scholar.
+- Recruited Perrin Quickstep as a scout.
+- Expedition to Old Owl Well planned for dawn.
 
 ---
 
 # Next Scene
 
-Awaiting campaign introduction.
+Depart Secomber at dawn with expedition party.
 
 ---
 
 # Save File Rules
 
 This file should only contain current campaign state.
-
-Permanent character information belongs in:
-
-`Azriel.md`
-
-Spells and spell tactics belong in:
-
-`Spellbook.md`
-
-NPC history belongs in:
-
-`Relationships.md`
-
-World discoveries belong in:
-
-`World.md`
-
-Session summaries belong in:
-
-`Journal.md`
